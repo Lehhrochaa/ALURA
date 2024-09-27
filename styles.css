@@ -1,4 +1,33 @@
 body{
     color:black;
     background: pink;
+    margin: 0px;
+    font-family: "Playfair Display", serif;
+}
+
+header {
+  border-bottom: solid 2px deeppink;
+  padding: 20px;
+  font-size: 32px;
+  color: deeppink;
+}
+
+section{
+    background:mistyrose;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+   
+.chamada-texto{
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
 }
